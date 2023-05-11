@@ -1,5 +1,6 @@
 # Arduino_Leds_Potenciometro
 Repositoria referente a aula de Sistemas Embarcados, que consiste na montagem de um sistema arduino com um Potenciômetro que ao variar sua faixa acende diferentes Leds.<br><br>
+💡Explicação: O Potenciômetro é um equipamento cuja sua resistência varia de acordo com a posição no cursor. Os Leds estão configurados em faixas diferentes, a medida que o Potenciômetro varia, os Leds acendem.<br>
 >🔗 Link Projeto:https://www.tinkercad.com/things/fbfwcs9HeOX <br>
 >Finalizado ✅
 
